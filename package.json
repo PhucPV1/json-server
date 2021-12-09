@@ -1,13 +1,15 @@
 {
-  "name": "json_server",
+  "name": "json-server-deploy",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Simple json database to deploy to the host of your choice",
+  "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "author": "",
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "Jesper Orb",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
