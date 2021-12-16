@@ -11,50 +11,61 @@
     }
   ],
   "courses": [
-    {
-      "title": "Học tỉa nến cùng bậc thầy đục sàn - Phúc cao thủ",
-      "teacher": "Phúc thợ đục",
-      "review_count": "69",
-      "previous_price": "1000000",
-      "present_price": "696969",
-      "img_src": "./assets/tianen.jpg",
-      "id": 1
-    },
-    {
-      "title": "Học tỉa nến cùng bậc thầy đục sàn - Phúc cao thủ",
-      "teacher": "Phúc thợ đục",
-      "review_count": "69",
-      "previous_price": "1000000",
-      "present_price": "696969",
-      "img_src": "./assets/tianen.jpg",
-      "id": 2
-    },
-    {
-      "title": "Học tỉa nến cùng bậc thầy đục sàn - Phúc cao thủ",
-      "teacher": "Phúc thợ đục",
-      "review_count": "69",
-      "previous_price": "1000000",
-      "present_price": "696969",
-      "img_src": "./assets/tianen.jpg",
-      "id": 3
-    },
-    {
-      "title": "Học tỉa nến cùng bậc thầy đục sàn - Phúc cao thủ",
-      "teacher": "Phúc thợ đục",
-      "review_count": "69",
-      "previous_price": "1000000",
-      "present_price": "696969",
-      "img_src": "./assets/tianen.jpg",
-      "id": 4
-    },
-    {
-      "title": "Học tỉa nến cùng bậc thầy đục sàn - Phúc cao thủ",
-      "teacher": "Phúc thợ đục",
-      "review_count": "69",
-      "previous_price": "1000000",
-      "present_price": "696969",
-      "img_src": "./assets/tianen.jpg",
-      "id": 5
-    }
+    [
+      {
+        "title": "Đây là khóa học được render từ call API",
+        "teacher": "Thầy Phúc",
+        "review_count": "69",
+        "previous_price": "1000000",
+        "present_price": "696969",
+        "img_src": "./img/smartdev_course.gif",
+        "id": 1
+      },
+      {
+        "title": "Đây là khóa học được render từ call API",
+        "teacher": "Thầy Phúc",
+        "review_count": "69",
+        "previous_price": "1000000",
+        "present_price": "696969",
+        "img_src": "./img/smartdev_course.gif",
+        "id": 2
+      },
+      {
+        "title": "Đây là khóa học được render từ call API",
+        "teacher": "Thầy Phúc",
+        "review_count": "69",
+        "previous_price": "1000000",
+        "present_price": "696969",
+        "img_src": "./img/smartdev_course.gif",
+        "id": 3
+      },
+      {
+        "title": "Đây là khóa học được render từ call API",
+        "teacher": "Thầy Phúc",
+        "review_count": "69",
+        "previous_price": "1000000",
+        "present_price": "696969",
+        "img_src": "./img/smartdev_course.gif",
+        "id": 4
+      },
+      {
+        "title": "Đây là khóa học được render từ call API",
+        "teacher": "Thầy Phúc",
+        "review_count": "69",
+        "previous_price": "1000000",
+        "present_price": "696969",
+        "img_src": "./img/smartdev_course.gif",
+        "id": 5
+      },
+      {
+        "title": "Đây là khóa học được render từ call API",
+        "teacher": "Thầy Phúc",
+        "review_count": "69",
+        "previous_price": "1000000",
+        "present_price": "696969",
+        "img_src": "./img/smartdev_course.gif",
+        "id": 6
+      }
+    ]
   ]
 }
